@@ -6,11 +6,11 @@ export default function Home() {
     <div>
       <Head>
         <title>Josy Freitas | Técnico de Enfermagem</title>
-        <meta name="description" content="Técnica Enfermagem" />
+        <meta name="description" content="Técnico de Enfermagem" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        {/* <link rel="icon" href="./favicon-32.png" /> */}
+        <link rel="icon" href="./favicon-2.png" />
       </Head>
-      <Main/>
+      <Main />
     </div>
   );
 }
