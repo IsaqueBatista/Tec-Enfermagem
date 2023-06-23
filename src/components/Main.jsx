@@ -8,11 +8,11 @@ const Main = () => {
     <div className="mb-0 w-full h-screen text-center ">
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div className="mt-10">
-          <h1 className="py-4 text-gray-700">
+          <h1 className="py-4 text-gray-800">
             Olá, sou <span className="text-[#5651e5]">Josy Freitas</span>.
           </h1>
-          <h1 className="py-4 text-gray-700">Técnica Enfermagem</h1>
-          <p className="py-4 text-gray-600 max-w-[70%] m-auto">
+          <h1 className="py-4 text-gray-800">Técnico de Enfermagem</h1>
+          <p className="py-4 text-gray-700 max-w-[70%] m-auto">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
             mollitia, totam voluptatibus architecto, quaerat officia rem tempore
             sint sapiente voluptatem magnam amet nisi quis harum commodi saepe

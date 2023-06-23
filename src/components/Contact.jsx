@@ -23,7 +23,7 @@ export default function Contact() {
               </div>
               <div>
                 <h2 className="pt-2">Josy Freitas</h2>
-                <p className="pb-2 pt-2">Técnica Enfermagem</p>
+                <p className="pb-2 pt-2">Técnico de Enfermagem</p>
               </div>
               <div>
 
