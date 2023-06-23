@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import myImage from "../../public/assets/Photo-Contact.jpeg";
+import myImage from "../../public/assets/Photo-About.jpeg";
 import Link from "next/link";
 
 export default function About() {

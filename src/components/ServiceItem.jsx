@@ -20,7 +20,7 @@ const ServiceItem = ({ tittle, paragrafo, mostrarBotao }) => {
                 rel="noreferrer"
               >
                 <div
-                  className="bg-[#f84c9b] rounded-full shadow-md shadow-gray-600 px-3 py-1 mt-2 gap-1 text-white cursor-pointer 
+                  className="bg-[#f72585] rounded-full shadow-md shadow-gray-600 px-3 py-1 mt-2 gap-1 text-white cursor-pointer 
                 hover:scale-105 ease-in duration-300 flex items-center justify-center"
                 >
                   <FaWhatsapp/> Fale comigo 
