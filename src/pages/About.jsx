@@ -12,18 +12,26 @@ export default function About() {
             <h2 className="py-4">Quem sou eu</h2>
             <p className="py-2 text-gray-600">Meu nome é Josy Freitas</p>
             <p className="py-2 text-gray-600">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut
-              adipisci earum in ex. Nisi neque inventore ipsa sequi,
-              reprehenderit, totam perspiciatis quis similique fuga libero harum
-              cumque quaerat facilis labore?Lorem ipsum dolor, sit amet
-              consectetur adipisicing elit. Excepturi mollitia distinctio
-              dolorum dolor voluptatibus unde aperiam, iure beatae animi
-              incidunt? Commodi, possimus provident! Vitae commodi molestias
-              dignissimos consequuntur, iure voluptatibus?Lorem, ipsum dolor sit
-              amet consectetur adipisicing elit. Cumque eos maiores quam omnis
-              qui possimus fugiat dicta magni voluptas porro ab, pariatur
-              distinctio error neque! Dignissimos nam commodi officia
-              aspernatur.
+              <span>
+                <i>
+                  Sou técnica de enfermagem, nascida em Barreiras de Jacuruna,
+                  município de Jaguaripe. Atuei na profissão por 3 anos em um
+                  posto de saúde da família. Decidi mudar para a
+                  cidade de Salvador e fazer uma especialização em Home Care
+                  para trabalhar com pacientes acamados em cuidados paliativos,
+                  pois sempre foi meu desejo cuidar de pessoas de forma mais
+                  próxima. Meu objetivo é ajudar pessoas nos momentos mais
+                  delicados de suas vidas. Há 4 anos, trabalho por uma
+                  cooperativa de Home Care, prestando serviços em atendimentos
+                  com plantões de 24 horas ou 12 horas. Também trabalho de forma
+                  particular nos tempos livres, realizando procedimentos de
+                  enfermagem no domicílio sempre que solicitada. Alguns exemplos
+                  de procedimentos que realizo são: banho no leito,
+                  administração de medicação e, principalmente, curativos. É
+                  prazeroso para mim ver a evolução de cada lesão e proporcionar
+                  o alívio e conforto a cada paciente.
+                </i>
+              </span>
             </p>
             <Link href="/Servicos">
               <p className="py-2 text-gray-600 underline cursor-pointer">

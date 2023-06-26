@@ -13,10 +13,7 @@ const Main = () => {
           </h1>
           <h1 className="py-4 text-gray-800">Técnico de Enfermagem</h1>
           <p className="py-4 text-gray-700 max-w-[70%] m-auto">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-            mollitia, totam voluptatibus architecto, quaerat officia rem tempore
-            sint sapiente voluptatem magnam amet nisi quis harum commodi saepe
-            quasi maxime iste.
+          “Saúde é o estado de completo bem-estar físico, mental e social e não somente a ausência de doença.”
           </p>
           <div className="flex items-center gap-4 justify-center max-w-[330px] m-auto py-4">
             <Link href="/Contact">
