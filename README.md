@@ -1,7 +1,5 @@
 # Técnico-Enfermagem
 
-<h1>TO DO LIST</h1>
-
 > Página Home
 <br>
 <img src="./public/assets/rotas/home.png" alt="image-login">
